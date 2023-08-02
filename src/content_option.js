@@ -15,7 +15,7 @@ const introdata = {
   description:
     "I am a Software Developer at Ecoaims oy and currently pursuing a degree in Information and Communication Technology at Riveria school in Joensuu. My work involves using JavaScript, Node JS, and React-native. I hold two M.Sc. degrees in Physics and Photonics, where I worked on designing and analyzing a Micro-grid polarizer. Additionally, I have 6 months of experience working in Optical and clean-room laboratories. I also have experience in managing warehouses for Posti (Post of Finland) for 2 years.",
   your_img_url:
-    "https://lh3.googleusercontent.com/drive-viewer/AFGJ81qaDcISouVdZdL7x8N2IDpqUk0CgSwNVP4_gWP4rtqYSbirmStnKh7_WZLiIyn1o9JnUVlmRhG37syyIF1zkTUUH6xlww=s1600",
+    "https://lh3.googleusercontent.com/pw/AIL4fc-_nNZmfsb_LaKZgTVZW3YLIfusWY_7ry9yk6By3fz2BWT-vqu2Bktq7zIHeUL9XTsFoEq3OtQbkDu1QbvrspajRczoAyWbXQ-kFhke5iyJ7kj1YEQ=w2400",
 };
 
 const dataabout = {
