@@ -167,7 +167,7 @@ const contactConfig = {
 const socialprofils = {
   github: "https://github.com/noSweatSuperDry",
   facebook: "https://facebook.com/nosweatsuperdry",
-  linkedin: "https://linkedin.com/zaevan88/",
+  linkedin: "https://www.linkedin.com/in/zahid-abdullah/",
   twitter: "https://twitter.com/nosweatsuperdry",
 };
 export {
