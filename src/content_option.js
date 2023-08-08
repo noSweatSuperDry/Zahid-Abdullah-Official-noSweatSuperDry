@@ -2,11 +2,11 @@ const logotext = "NoSweatSuperDry";
 const meta = {
   title: "Zahid Abdullah",
   description:
-    "I’m Zahid Abdullah a Software Developer working in Ecoaims Oy, Finland.",
+    "I'm Zahid Abdullah a Software Developer working in Ecoaims Oy, Finland.",
 };
 
 const introdata = {
-  title: "I’m Zahid Abdullah",
+  title: "I'm Zahid Abdullah",
   animated: {
     first: "A Programmer and Developer",
     second: "A Physicist",
@@ -44,7 +44,7 @@ const worktimeline = [
 const skills = [
   {
     name: "JavaScript",
-    value: 70,
+    value: 80,
   },
   {
     name: "React",
@@ -64,11 +64,11 @@ const services = [
   {
     title: "Web Designing",
     description:
-      "Website for early stage Business and entrepreneurs. Web pages are designed to have responsive UI.",
+      "Website for early stage Business and entrepreneurs. Web pages are designed to have with or without responsive UI.",
   },
   {
     title: "Mobile Apps (Android & IOS)",
-    description: "Android and ios App for simple tasks.",
+    description: "Android and ios App for varity of tasks.",
   },
   {
     title: "Personal computer assembly and troubleshooting.",
@@ -166,7 +166,7 @@ const contactConfig = {
 
 const socialprofils = {
   github: "https://github.com/noSweatSuperDry",
-  facebook: "https://facebook.com/zaevan",
+  facebook: "https://facebook.com/nosweatsuperdry",
   linkedin: "https://linkedin.com/zaevan88/",
   twitter: "https://twitter.com/nosweatsuperdry",
 };
