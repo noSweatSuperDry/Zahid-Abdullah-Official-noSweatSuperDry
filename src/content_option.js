@@ -10,10 +10,10 @@ const introdata = {
   animated: {
     first: "A Programmer and Developer",
     second: "A Physicist",
-    third: "A Gamer",
+    third: "A Gaming Enthusiast",
   },
   description:
-    "I am a Software Developer at Ecoaims oy and currently pursuing a degree in Information and Communication Technology at Riveria school in Joensuu. My work involves using JavaScript, Node JS, and React-native. I hold two M.Sc. degrees in Physics and Photonics, where I worked on designing and analyzing a Micro-grid polarizer. Additionally, I have 6 months of experience working in Optical and clean-room laboratories. I also have experience in managing warehouses for Posti (Post of Finland) for 2 years.",
+    "Hello there! I'm thrilled to have you visit my portfolio website. I am a dedicated and enthusiastic Full-Stack Software Developer at Ecoaims oy, where I am actively involved in crafting innovative solutions and driving product development. As a versatile professional, I am not limited to coding alone – I also lend my expertise to testing and designing, ensuring a holistic approach to delivering top-notch software.",
   your_img_url:
     "https://lh3.googleusercontent.com/pw/AIL4fc-_nNZmfsb_LaKZgTVZW3YLIfusWY_7ry9yk6By3fz2BWT-vqu2Bktq7zIHeUL9XTsFoEq3OtQbkDu1QbvrspajRczoAyWbXQ-kFhke5iyJ7kj1YEQ=w2400",
 };
@@ -21,7 +21,15 @@ const introdata = {
 const dataabout = {
   title: "abit about my self",
   aboutme:
-    "I am working as a Software Developer in Ecoaims oy. I am doing my apprenticeship by taking a degree in Information and Communication Technology in Riveria school, Joensuu and working in Ecoaims oy. I have been working with JavaScript, Node JS, React-native when working in the company. In my early life, I have an extensive background in Physics. I have two M.Sc. in Physics and Photonics. In M.Sc. Photonics I have designed and analyzed a Micro-grid polarizer as my Thesis work. I have 6 months of working experience in Optical laboratory and clean-room laboratory. After graduation, I have also worked in Warehouses inbound and outbound systems of Posti (Post of Finland). I have 2 years of warehouse management experience by hand.",
+    `My journey in the world of technology began with a Bachelor's degree in Information and Communication Technology from Riveria, Joensuu, where I honed my skills and laid the foundation for an exciting career. 
+    At Ecoaims oy, I thrive on a diverse range of technologies, including JavaScript, Node JS, React-native, and the dynamic Azure ecosystem including Azure portal, Azure DevOps, and Azure Cosmos DB. 
+    However, my journey isn't confined solely to the realm of software development. In my earlier pursuits, I delved into the captivating world of Physics, holding two Master's degrees in Physics and Photonics. 
+    My Photonics M.Sc. involved an intriguing thesis where I designed and analyzed a Micro-grid polarizer, showcasing my analytical prowess and innovative thinking.
+     I've also spent significant time in Optical and clean-room laboratories, gaining invaluable hands-on experience. Beyond the confines of laboratories and code, 
+     I've explored the intricacies of warehouse management, working with prominent entities like Posti and Customs Warehouse of Finland. With two years of hands-on experience,
+      I've learned the nuances of inbound and outbound systems, highlighting my adaptability and commitment to mastering diverse domains. I invite you to explore my portfolio, 
+      which showcases the culmination of my experiences, skills, and passion. From software development to physics and warehouse management, my journey is a testament to my relentless 
+      pursuit of knowledge and excellence. Thank you for joining me on this captivating voyage.`,
 };
 const worktimeline = [
   {
@@ -77,81 +85,81 @@ const services = [
   },
 ];
 
-const dataportfolio = [
-  {
-    img: "https://picsum.photos/400/?grayscale",
-    description:
-      "The wisdom of life consists in the elimination of non-essentials.",
-    link: "#",
-  },
-  {
-    img: "https://picsum.photos/400/800/?grayscale",
-    description:
-      "The wisdom of life consists in the elimination of non-essentials.",
-    link: "#",
-  },
-  {
-    img: "https://picsum.photos/400/?grayscale",
-    description:
-      "The wisdom of life consists in the elimination of non-essentials.",
-    link: "#",
-  },
-  {
-    img: "https://picsum.photos/400/600/?grayscale",
-    description:
-      "The wisdom of life consists in the elimination of non-essentials.",
-    link: "#",
-  },
-  {
-    img: "https://picsum.photos/400/300/?grayscale",
-    description:
-      "The wisdom of life consists in the elimination of non-essentials.",
-    link: "#",
-  },
-  {
-    img: "https://picsum.photos/400/700/?grayscale",
-    description:
-      "The wisdom of life consists in the elimination of non-essentials.",
-    link: "#",
-  },
+// const dataportfolio = [
+//   {
+//     img: "https://picsum.photos/400/?grayscale",
+//     description:
+//       "The wisdom of life consists in the elimination of non-essentials.",
+//     link: "#",
+//   },
+//   {
+//     img: "https://picsum.photos/400/800/?grayscale",
+//     description:
+//       "The wisdom of life consists in the elimination of non-essentials.",
+//     link: "#",
+//   },
+//   {
+//     img: "https://picsum.photos/400/?grayscale",
+//     description:
+//       "The wisdom of life consists in the elimination of non-essentials.",
+//     link: "#",
+//   },
+//   {
+//     img: "https://picsum.photos/400/600/?grayscale",
+//     description:
+//       "The wisdom of life consists in the elimination of non-essentials.",
+//     link: "#",
+//   },
+//   {
+//     img: "https://picsum.photos/400/300/?grayscale",
+//     description:
+//       "The wisdom of life consists in the elimination of non-essentials.",
+//     link: "#",
+//   },
+//   {
+//     img: "https://picsum.photos/400/700/?grayscale",
+//     description:
+//       "The wisdom of life consists in the elimination of non-essentials.",
+//     link: "#",
+//   },
 
-  {
-    img: "https://picsum.photos/400/600/?grayscale",
-    description:
-      "The wisdom of life consists in the elimination of non-essentials.",
-    link: "#",
-  },
-  {
-    img: "https://picsum.photos/400/300/?grayscale",
-    description:
-      "The wisdom of life consists in the elimination of non-essentials.",
-    link: "#",
-  },
-  {
-    img: "https://picsum.photos/400/?grayscale",
-    description:
-      "The wisdom of life consists in the elimination of non-essentials.",
-    link: "#",
-  },
-  {
-    img: "https://picsum.photos/400/550/?grayscale",
-    description:
-      "The wisdom of life consists in the elimination of non-essentials.",
-    link: "#",
-  },
-  {
-    img: "https://picsum.photos/400/?grayscale",
-    description:
-      "The wisdom of life consists in the elimination of non-essentials.",
-    link: "#",
-  },
-  {
-    img: "https://picsum.photos/400/700/?grayscale",
-    description:
-      "The wisdom of life consists in the elimination of non-essentials.",
-    link: "#",
-  },
-];
+//   {
+//     img: "https://picsum.photos/400/600/?grayscale",
+//     description:
+//       "The wisdom of life consists in the elimination of non-essentials.",
+//     link: "#",
+//   },
+//   {
+//     img: "https://picsum.photos/400/300/?grayscale",
+//     description:
+//       "The wisdom of life consists in the elimination of non-essentials.",
+//     link: "#",
+//   },
+//   {
+//     img: "https://picsum.photos/400/?grayscale",
+//     description:
+//       "The wisdom of life consists in the elimination of non-essentials.",
+//     link: "#",
+//   },
+//   {
+//     img: "https://picsum.photos/400/550/?grayscale",
+//     description:
+//       "The wisdom of life consists in the elimination of non-essentials.",
+//     link: "#",
+//   },
+//   {
+//     img: "https://picsum.photos/400/?grayscale",
+//     description:
+//       "The wisdom of life consists in the elimination of non-essentials.",
+//     link: "#",
+//   },
+//   {
+//     img: "https://picsum.photos/400/700/?grayscale",
+//     description:
+//       "The wisdom of life consists in the elimination of non-essentials.",
+//     link: "#",
+//   },
+// ];
 
 const contactConfig = {
   YOUR_EMAIL: "zaevanphy@gmail.com",
@@ -173,7 +181,7 @@ const socialprofils = {
 export {
   meta,
   dataabout,
-  dataportfolio,
+  // dataportfolio,
   worktimeline,
   skills,
   services,
